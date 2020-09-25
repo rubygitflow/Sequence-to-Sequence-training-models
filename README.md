@@ -1,2 +1,2 @@
-# Sequence-to-Sequence-training-models
+# Sequence-to-Sequence training models
 A few examples of text generation using the Sequence-to-Sequence model
